@@ -1,0 +1,49 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.box1
+{
+    height: 100px;
+    width: 100%;
+    float: left;
+    margin: auto;
+}
+.box1 .black
+{
+    height: 100px;
+    width: 12.5%;
+    background-color: black;
+    float: left;
+}
+.box1 .white
+{
+    height: 100px;
+    width: 12.5%;
+    background-color: antiquewhite;
+    float: left;
+}
+.box2
+{
+    height: 100px;
+    width: 100%;
+    float: left;
+    margin: auto;
+}
+.box2 .black
+{
+    height: 100px;
+    width: 12.5%;
+    background-color: black;
+    float: left;
+}
+.box2 .white
+{
+    height: 100px;
+    width: 12.5%;
+    background-color: antiquewhite;
+    float: left;
+}
